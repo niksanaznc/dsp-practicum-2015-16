@@ -26,3 +26,12 @@
 *.exe
 *.out
 *.app
+
+# Compiled documentation files to HTML
+*.html
+
+# TODO listing
+TODO
+
+# main source file for C++
+main.cpp
